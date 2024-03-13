@@ -5,9 +5,7 @@ let bmi;
 weight = 68
 // 身長：1.7m
 height = 1.7
-// BMI
-BMI =bmi
 
 // 計算式：[体重（kg）÷[身長（m）×身長（m）]のコンソールへの出力
-console.log(68 / (1.7 * 1.7)) ;
+console.log(68 / (1.7 * 1.7));
    
