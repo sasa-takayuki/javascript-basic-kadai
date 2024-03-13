@@ -7,5 +7,5 @@ weight = 68
 height = 1.7
 
 // 計算式：[体重（kg）÷[身長（m）×身長（m）]のコンソールへの出力
-console.log(weight / (height * height));
+BMI = console.log(weight / (height * height));
    
