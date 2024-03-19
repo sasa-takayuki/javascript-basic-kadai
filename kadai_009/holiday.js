@@ -6,12 +6,12 @@ const holidays = ["正月","成人の日","建国記念日","天皇誕生日","�
 console.log(holidays);
 
 // for文による繰り返し処理
-for (let i = 1; i <= 16; i += 1 ) {
-  console.log(holidays);
+for (let i = 0; i <= 15; i += 1 ) {
+  console.log(holidays[i]);
 }
 
 let i = 0;
-while (i <= 0) {
-  console.log(holidays);
+while (i < 16) {
+  console.log(holidays[i]);
   i++
 }
