@@ -11,7 +11,7 @@ for (let i = 1; i <= 16; i += 1 ) {
 }
 
 let i = 0;
-while (i <= 15) {
+while (i <= 0) {
   console.log(holidays);
   i++
 }
